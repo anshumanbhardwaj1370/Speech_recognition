@@ -1,8 +1,8 @@
-Speech_recognition
+# Speech_recognition
 
 ## Given task is:
 
-# From the voice note given below. Analyze the following speech quality indicators, using existing APIs, libraries.
+## From the voice note given below. Analyze the following speech quality indicators, using existing APIs, libraries.
 
 1) Count the number of pauses
 2) Count the repetition of words
